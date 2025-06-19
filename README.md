@@ -45,7 +45,7 @@ The notebook contains:
 
 ## 📎 Notebook Link
 
-[Click here to view the notebook](./COVID19_Data_Analysis.ipynb)
+[Click here to view the notebook](./https://github.com/aryajayankanichayi/covid_19_data_analysis/blob/main/COVID19_Data_Analysis.ipynb)
 
 ---
 
